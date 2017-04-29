@@ -1,0 +1,26 @@
+{
+  "name": "ordorapp",
+  "version": "1.0.0",
+  "description": "点餐app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laitingyou/orderapp.git"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "laitingyou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laitingyou/orderapp/issues"
+  },
+  "homepage": "https://github.com/laitingyou/orderapp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "webpack": "^2.4.1"
+  }
+}
